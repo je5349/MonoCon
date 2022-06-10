@@ -51,7 +51,7 @@ conda install pytorch==1.5.1 torchvision==0.6.1 cudatoolkit=10.1 -c pytorch
 - Install mmcv-full=1.3.1
 
 ```
-pip install mmcv==1.3.1 -f https://download.openmmlab.com/mmcv/dist/cu101/torch1.5.0/index.html
+pip install mmcv-full==1.3.1 -f https://download.openmmlab.com/mmcv/dist/cu101/torch1.5.0/index.html
 ```
 
 - Install mmdetection=2.11.0
